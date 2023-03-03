@@ -26,6 +26,7 @@
 
 .navbar-nav > li > a {
     padding: 7px 15px;
+    text-decoration: none;
 }
 
 .navbar-logo {
@@ -136,6 +137,9 @@
 #navbar-dropdown-1,
 #navbar-dropdown-2 [aria-expanded='true'] {
     color: var(--secondary-green);
+}
+a.navbar-nav.signIn-btn.user-field{
+    text-decoration: none;
 }
 
 #navbar-dropdown-1,
