@@ -10,6 +10,9 @@
 .header {
     background: var(--bg-navbar);
 }
+a.navbar-nav.signIn-btn.user-field{
+    text-decoration: none;
+}
 
 .logo {
     display: block;
